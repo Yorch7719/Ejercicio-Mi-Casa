@@ -1,0 +1,56 @@
+Objetos que encontrarias en la Alacena de una Cocina (Se están considerando también los de limpieza):
+
+1. Cereal
+2. Harina Todo Propósito
+3. Harina de HotCakes
+4. Pasta
+  4.1. Spaguetti
+  4.2. Fussili
+  4.3. Tagliatele
+  4.4. Penne
+  4.5. Pelo de Angel
+  4.6. Fetuchini
+  4.7. Coditos
+5. Atún en lata
+6. Sobres de pasta para sopa
+  6.1. Coditos
+  6.2. Estrellas
+  6.3. Municiones
+  6.4. Letras
+7. Café Molido
+8. Sobres de Té
+  8.1. Té Macha
+  8.2. Manzana-Canela
+  8.3. Blueberries
+  8.4. Macha-Golden Milk
+  8.5. Menta
+  8.6. Negro
+9. Leche en tetrapack
+10. Leche en Polvo
+11. Bicarbonato
+12. Aceite Vegetal
+13. Aceite de Oliva
+14. Vinagre de Manzana
+15. Vinagre Blanco
+16. Mermelada de Fresa
+17. Crema de Cacahuate
+18. Chocolate en Polvo
+19. Pan de caja
+20. Croissants
+21. Servilletas
+22. Jabón de trastes
+23. Jabón de manos
+24. Desengrasante
+25. Limpiador de Vidrios
+26. Polvo limpiador de Estufa
+27. Limpiador de Horno
+28. Esponjas
+29. Esponjas metalicas
+30. Cloro
+31. Fabuloso
+32. Bolsas de Basura
+33. Azúcar
+34. La Bolsa de las Bolsas
+35. Bolsas de Tela para Súper
+
+

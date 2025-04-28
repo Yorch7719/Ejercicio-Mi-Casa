@@ -1,0 +1,17 @@
+Objetos que encuentas en la Sala
+
+1. Sillones
+  1.1. De 3 piezas
+  1.2. De 2 piezas
+  1.3. Individual
+2. Mesas
+  2.1. Mesas Auxiliares
+  2.2. Mesa de Centro o de Café
+3. Lamparas
+4. Fotos de la Familia
+5. Plantas de Interior
+6. Alfombra o Tapete
+7. Decoración en Mesa de Centro
+8. Television de 65"
+9. Credenza
+

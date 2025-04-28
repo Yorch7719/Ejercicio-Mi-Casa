@@ -1,0 +1,42 @@
+Objetos que se encuentran en el Refrigerador:
+
+1. Leche
+2. Huevos
+3. Queso
+  3.1. Parmigano
+  3.2. Parmigano-Regiano
+  3.3. Mozarella
+  3.4. Cabra
+    3.4.1. Con Hierbas
+    3.4.2. Con Ceniza
+    3.4.3. Con Jitomate Deshidratado
+  3.5. Asadero
+  3.6. Adobera
+  3.7. Oaxaca / Quesillo
+4. Jamón
+5. Guanchale
+6. Jamón Serrano
+7. Jitomate
+8. Mayonesa
+  8.1. Normal con limón
+  8.2. Chipotle
+  8.3. Casera
+9. Mostaza
+  9.1 Dijon
+  9.2 Con Miel
+  9.3 Normal
+10. Cebolla
+11. Piña
+12. Mango
+13. Guayaba
+14. Uvas
+15. Berries
+15. Fresas
+16. Lechuga
+17. Espinacas
+18. Zanahorias
+19. Papas
+20. Chayote
+21. Calabacitas
+22. Germinado de Alfalfa
+

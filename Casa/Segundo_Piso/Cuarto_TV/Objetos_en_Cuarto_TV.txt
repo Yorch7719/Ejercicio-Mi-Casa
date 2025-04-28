@@ -1,0 +1,20 @@
+Objetos que se encuentran en el Cuarto de TV del Segundo Piso:
+
+1. TV de 85"
+2. Barra de Sonido
+3. Sillon de 3 piezas
+4. Sillon individual (Reposet)
+5. Mesa de Centro
+6. Credenza
+7. Consolas de Videojuegos
+  7.1. Nintendo Switch
+  7.2. PS5
+8. Juegos para consolas
+9. Juegos de Mesa
+10. Alexa
+11. Controles
+  11.1. Control de TV Smart Roku
+  11.2. Controles de Nintendo Switch
+  11.3. Controles de PS5
+  11.4. Control de barra de sonido
+

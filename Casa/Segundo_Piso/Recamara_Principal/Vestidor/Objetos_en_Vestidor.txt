@@ -1,0 +1,33 @@
+Objetos que se encuentran en el Clóset-Vestidor de la Recámara Principal
+
+Lado A (Ella)					|	Lado B (El)
+1. Vestidos					|	1. Cajones de Ropa Interior
+2. Cajones de Ropa Interor			|	2. Camisas
+3. Camisas					|	3. Playeras
+4. Playeras					|	4. Polos
+5. Polos					|	5. Pantalones
+6. Partes Bajas (Pantalones)			|	  5.1. Mezclilla
+  6.1. Mezclilla				|	  5.2. Casuales
+  6.2. Casuales					|	  5.3. Vestir
+  6.3. Vestir					|	  5.4. Formales
+  6.4. Formales					|	  5.5. De Trabajo
+  6.5. De Trabajo				|	  5.6. Pants
+  6.6. Pants					|	6. Shorts
+  6.7. Faldas					|	7. Ropa Deportiva
+7. Shorts					|	8. Neceser Personal
+8. Ropa Deportiva 				|	  8.1. Deshodorantes
+9. Neceser Personal				|	  8.2. Perfumes
+  9.1. Deshodorante				|	  8.3. Relojes
+  9.2. Perfumes					|	9. Trajes
+  9.3. Joyero					|	10. Corbatas
+  9.4. Relojes					|	11. Chamarras
+10. Zapatos					|	12. Sudaderas
+  10.1. Tenis					|	13. Pijamas
+  10.2. Zapatos					|	14. Zapatos
+  10.3. Chanclas				|	  14.1. Tenis
+  10.4. Tacones					|	  14.2. Zapatos
+  10.5. Pantunflas				|	  14.3. Chanclas
+11. Pijamas					|
+12. Chamarras					|
+13. Sudaderas					|
+14. Vestidos Formales				|

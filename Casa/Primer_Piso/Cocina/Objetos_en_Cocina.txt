@@ -1,0 +1,60 @@
+Objetos que encuentras en una Cocina
+
+1. Estufa
+2. Horno empotrado de aire
+3. Horno de Microondas
+4. Freidora de Aire
+5. Licuadora
+6. Tarja para trastes
+7. Mescladora de agua
+8. Llave de agua sobre la estufa
+9. Ollas (Diferentes Tamaños)
+10. Sartenes (Diferentes Tamaños)
+11. Platos
+  11.1. Platos Extendidos Grandes
+  11.2. Platos Extendidos Medianos
+  11.3. Platos Extendidos Chicos (Para Postre)
+  11.4. Platos Hondos Grandes
+  11.5. Platos Hondos Medianos
+12. Tazas
+  12.1. Tazas para café
+  12.2. Tazas para té
+  12.3. Tazas de colección (Traidas de viajes)
+13. Vasos
+  13.1. Vasos whisqueros
+  13.2. Vasos Normales
+  13.3. Vasos de colección (Traidos de viajes, de Harry Potter, de Star Wars, etc)
+14. Copas
+  14.1. Copas para vino tinto
+  14.2. Copas para vino blanco y rosado
+  14.3. Copas para Martini
+  14.4. Copas para Champagne
+  14.5. Copas para Digestivos
+15. Tarros
+  15.1. Tarros para cerveza de 1 litro
+  15.2. Tarros para cerveza (pints / pintas)
+  15.3. Tarros para cerveza artesanal (Guinness / Stela Artois)
+16. Tazas de barro (para pajaretes y/o cantaritos)
+17. Cubiertos
+  17.1. Tenedores para Ensalada
+  17.2. Tenedores para Pasta
+  17.3. Tenedores para Plato Fuerte
+  17.4. Tenedores para Postre
+  17.5. Cucharas para Sopa
+  17.6. Cucharas para Pozole
+  17.7. Cucharas para Postre
+  17.8. Cucharas para Café y/o Té
+  17.9. Cuchillos de Embarre
+  17.10. Cuchillos de Corte
+  17.11. Cuchillos de Mantequilla
+18. Cubiertos para Cocinar
+  18.1. Espatula
+  18.2. Globo
+  18.3. Cuchillos de Chef
+  18.4. Cuchillos de Pan
+  18.5. Palas de Madera
+  18.6. Miserables (Diferentes tamaños)
+  18.7. Cucharones
+19. Licuadora de mano
+20. Tuppers de vidrio
+21. Pirex (Diferentes Tamaños)

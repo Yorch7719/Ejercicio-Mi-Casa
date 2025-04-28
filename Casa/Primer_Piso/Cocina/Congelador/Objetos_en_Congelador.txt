@@ -1,0 +1,38 @@
+Objetos que se encuentran en el Congelador
+
+1. Carne de Res
+  1.1. Peinecillo
+  1.2. Molida Mixta (80/20)
+  1.3. Arrachera
+  1.4. New York
+  1.5. Rib Eye
+  1.6. Corte Araña
+  1.7. Carne para Asar
+  1.8. Para Carne en su Jugo
+  1.9. Costillas
+2. Carne de Cerdo
+  2.1. Pierna para Deshebrar
+  2.2. Costillas Baby Back
+  2.3. Costillas para caldo
+  2.4. Chicharron Prensado en trozo
+3. Pollo
+4. Pescado
+  4.1. Filete de Tilapia
+  4.2. Medallones de Atún
+  4.3. Camarón
+    4.3.1. Chico
+    4.3.2. Coctelero
+    4.3.3. Grande o Langostino
+5. Verduras Congeladas
+6. Fresas Congeladas
+7. Berries Congeladas
+8. Nieve Haggen-Dass
+  8.1. Chocolate
+  8.2. Café
+  8.3. Chocochips
+  8.4. Fresa
+9. Hielos
+10. Chocolate en Barra
+  10.1. Hershey Cookies n Cream
+  10.2. Hershey Amargo
+

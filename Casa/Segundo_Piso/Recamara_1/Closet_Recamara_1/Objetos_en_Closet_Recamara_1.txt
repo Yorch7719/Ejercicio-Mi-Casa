@@ -1,0 +1,17 @@
+Objetos que se encuentran en el Closet de la Recámara 1 (Niño, 10 años, deportista):
+
+1. Jerseys de sus equipos favoritos
+2. Camisas
+3. Polos
+4. Playeras
+5. Pantalones
+  5.1. Mezclilla
+  5.2. Casuales
+  5.3. Formales
+  5.4. Pants
+6. Shorts
+7. Trajes de Baño
+8. Sudaderas
+9. Chamarras
+10. Deshodorante
+

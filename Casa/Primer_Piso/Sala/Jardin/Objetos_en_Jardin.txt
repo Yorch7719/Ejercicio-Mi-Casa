@@ -1,0 +1,11 @@
+Objetos que se encuentran en el Jardín
+
+1. Mangera
+2. Juguetes de los hijos
+  2.1. Balones
+    2.1.1. Futbol
+    2.1.2. Futbol Americano
+    2.1.3. Voleyball
+  2.2. Porterias de Futbol
+3. Columpios
+4. Árbol de Limón
