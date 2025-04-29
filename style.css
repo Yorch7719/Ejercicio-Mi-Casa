@@ -2,7 +2,7 @@ h1, p, button{
     text-align: center
 }
 .home{
-    background-image: House.jpg;
+    background-image: url(https://github.com/Yorch7719/Ejercicio-Mi-Casa/blob/main/House.jpg);
     margin: auto;
     padding: 20px;
 }
